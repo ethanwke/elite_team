@@ -1,6 +1,7 @@
 html {
   height: 100%;
   width: 100%;
+  text-shadow: 0 0 2px black;
 }
 
 body{
@@ -42,13 +43,14 @@ body{
   height: 40px;
 }
 
-#videos, #views, #created-date, #location {
+#videos, #views, #created-date, #discord {
   width: 40px;
   height: 40px;
 }
 
 .btn-details {
-  padding: 7px 10px 0 10px;
+  height: 97px;
+  padding: 7px 80px 0 80px;
   margin: 0 0 50px 0;
 }
 
